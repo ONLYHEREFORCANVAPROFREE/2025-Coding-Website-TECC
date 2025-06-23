@@ -41,4 +41,3 @@ def lumfau():
     return render_template('lumfau.html', intros = intros)
 
 app.run(debug=True)
-
